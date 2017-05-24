@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 24.05.2017 04:35:25
+# File Created: 24.05.2017 04:38:07
 
 mtllib carita.mtl
 
@@ -843,7 +843,7 @@ vn 0.0000 -1.0000 -0.0000
 # 211 vertex normals
 
 g Shape1
-usemtl 03___Default
+usemtl 10___Default
 s 2
 f 1//1 2//2 3//2 4//1 
 f 2//2 5//3 6//3 3//2 
